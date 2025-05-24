@@ -11,8 +11,9 @@ The following PDFs are included in `/pdfs`:
 
 | File Name                       | Description                                                                                  |
 |--------------------------------|----------------------------------------------------------------------------------------------|
-| `MilenialInc_Preface.pdf`      | Founder’s manifesto on the mission, intent, and lived experiences that gave rise to Milenial Inc. |
-| `2_Confidentiality_Notice.pdf` | Legal confidentiality agreement for document recipients                                     |
+| `MilenialInc_Preface.pdf`      | Founder’s manifesto mission, intent, and lived experiences that gave rise to Milenial Inc
+
+| `2_Confidentiality_Notice.pdf` | Legal safeguards outlining confidentiality, non-disclosure, limited use, and remedies                                     |
 | `3_Intellectual_Property_Statement.pdf` | Declaration of ownership over platform ideas, tech, and compliance logic          |
 | `4_Disclaimer_and_Risk_Statement.pdf` | Risk disclaimer: forward-looking statements, liabilities, and limits                |
 | `5_Acknowledgment_Section.pdf` | Cultural positioning statement and respect for equity advocacy history                      |
